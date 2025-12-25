@@ -28,7 +28,7 @@ This project is licensed under the [AGPL-3.0](./LICENSE-AGPL.txt).
 Documentation for our other NocoBase plugins: [https://docs.taichuy.com/nocobase](https://docs.taichuy.com/nocobase)
 
 **Technical Consultation**: Follow the WeChat Official Account `taichuy-com` or email `taichu2021@gmail.com`  
-**Get Plugin**: Follow the official account and reply with the keyword `父级筛选区块选中值-nocobase插件` to get the pre-packaged plugin.
+**Get Plugin**: Follow the official account and reply with the keyword `太初y的nocobase插件` to get the pre-packaged plugin.
 
 **Official Account**:
 
