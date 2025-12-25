@@ -1,0 +1,22 @@
+{
+  "name": "@taichuy/plugin-block-filters-value",
+  "displayName": "Add default value for parent filter block",
+  "displayName.zh-CN": "父级筛选区块添加默认值",
+  "description": "Add default value for parent filter block",
+  "description.zh-CN": "解决场景：在父级链接区块之后，添加时候无法获取父级筛选区块值",
+  "version": "1.9.6",
+  "homepage": "https://docs.taichuy.com/en-US/nocobase/parent-filter",
+  "homepage.zh-CN": "https://docs.taichuy.com/nocobase/parent-filter",
+  "main": "dist/server/index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/test": "1.x"
+  },
+  "keywords": [
+    "filter",
+    "default value",
+    "parent filter"
+  ]
+}
